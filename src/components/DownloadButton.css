@@ -1,0 +1,16 @@
+.button-api-frame{
+    background-color: rgba(27, 27, 27, 0.918);   
+}
+.download-btn{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem 0;
+
+}
+iframe{
+border-radius: 20px;
+
+
+}

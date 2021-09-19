@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+.header-container{
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+.header-div{
+    width: 100%;
+    text-align: center;
+    background-color: rgb(185, 184, 184);
+    padding: 2rem 0rem;
+    color: rgba(32, 32, 32, 0.692);
+}
+.header-div img{
+    width: 17rem;
+    background: transparent;
+}
